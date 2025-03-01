@@ -1,15 +1,24 @@
 # Markdown Learning
-This is README.md markdown. Find more information here:
+### Table of contents
+1. [Introduction](#introduction)
+   1. [Background](#background)
+   2. [Intro](#intro)
+2. [Body](#body)
+   1. [Body intro](#body-intro)
+   2. [Body content](#body-content)
+3. [Conclusion](#conclusion)
 
+This is README.md markdown. For more information, refer to:\
 <https://blog.webdevsimplified.com/2023-06/markdown-crash-course/>\
 [The Only Markdown Crash Course You Will Ever Need](https://www.youtube.com/watch?v=_PPWWRV6gbA)\
 [Basic writing and formatting syntax](
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 )\
 Image link:\
-![Alt image text](https://myoctocat.com/assets/images/base-octocat.svg)\
-## 1. Heading
-[Link to headings](#1-heading)
+![Alt image text](https://myoctocat.com/assets/images/base-octocat.svg)
+
+<h2>Introduction<a href='#table-of-contents'>*</a></h2>
+<!--a name='Heading1'></a-->
 <body>
 <table>
   <head>
@@ -37,22 +46,15 @@ A footnote can also have multiple lines[^2].
 X<sup>2</sup>\
 X<sub>2</sub>\
 <mark>highlighted text</mark>
-1. t
-3. t
-4. t
-5. 
-3. t
-4. t
-
-
 ~~subscript~~<br/>
 | col 1 | col 2 |
 | :---- | ----: |
 | 1     |   2   |
 | left  | right |
 | left aligned  | right aligned |
-### 1.1 heading
->
+
+<h3>Background<a href='#table-of-contents'>*</a></h3>
+
 > ?
 <!-- This is comment -->
 > [!NOTE]
@@ -69,10 +71,10 @@ X<sub>2</sub>\
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
-### 1.2 heading
-## 2. Heading
-### 2.1 heading
-### 2.2 heading
-## 3. Heading
-## 4. Heading
+
+<h3>Intro<a href='#table-of-contents'>*</a></h3>
+<h2>Body<a href='#table-of-contents'>*</a></h2>
+<h3>Body intro<a href='#table-of-contents'>*</a></h3>
+<h3>Body content<a href='#table-of-contents'>*</a></h3>
+<h2>Conclusion<a href='#table-of-contents'>*</a></h2>
 
